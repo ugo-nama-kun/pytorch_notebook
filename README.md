@@ -1,7 +1,7 @@
 # pytorch_notebook
 Private notebook for pytorch tips
 
-[Notebok Viewer][https://nbviewer.jupyter.org/github/ugo-nama-kun/pytorch_notebook/tree/master/]
+[Notebook](https://github.com/ugo-nama-kun/pytorch_notebook/blob/master/notebook.ipynb)
 
 ## Settings
 
