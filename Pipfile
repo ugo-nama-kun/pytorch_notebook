@@ -11,6 +11,8 @@ jupyter = "*"
 torch = "*"
 torchvision = "*"
 jupyterlab = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
