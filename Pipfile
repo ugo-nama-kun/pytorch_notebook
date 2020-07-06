@@ -18,4 +18,5 @@ seaborn = "*"
 python_version = "3.6"
 
 [scripts]
-start = "jupyter notebook notebook.ipynb"
+lab = "jupyter lab notebook.ipynb"
+notebook = "jupyter notebook notebook.ipynb"
