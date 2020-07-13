@@ -14,6 +14,9 @@ jupyterlab = "*"
 matplotlib = "*"
 seaborn = "*"
 pyro-ppl = "*"
+pprint = "*"
+sklearn = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
